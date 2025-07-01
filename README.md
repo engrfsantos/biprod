@@ -1,4 +1,4 @@
-﻿
+﻿# Este projeto serviu de ETL para migração de dados do ambiente ORACLE para ambiente POSTGRES
 #Abrir Pasta do projeto BIPROD
 
 ## Criar o ambiente virtual
